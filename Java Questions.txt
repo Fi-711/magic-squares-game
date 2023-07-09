@@ -1,0 +1,7 @@
+Java Questions
+
+1. For shuffle in 1b, can shuffle not change position? All swaps must swap - because n^2 swaps this ensures grid never the same post shuffle
+2. Will you run the games in a terminal and which OS? - ?ANSI supported - No idea
+3. For game I enforce grid sizes of 3 or more
+4. Break down of the marks available for question 2 - no break down available
+5. Appendix and references count to page total? - No
